@@ -1,0 +1,19 @@
+{
+  "contactOwner": "6283848574563",
+  "ownerNumber": ["6283848574563@s.whatsapp.net"],
+  "botName": "𝚈𝚃𝚃𝙰 𝙱𝙾𝚃ོ",
+  "ownerName": "Farelོ",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "©Farelོ",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "083848574563",
+      "atas_nama": "Farel"
+    },
+    "dana": {
+      "nomer": "083848574563",
+      "atas_nama": "Farel"
+    }
+  }
+}
